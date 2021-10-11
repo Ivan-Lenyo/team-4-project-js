@@ -1,18 +1,18 @@
 {
-  "name": "event-booster",
+  "name": "team-4-project-js",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://oleksii-petryk.github.io/event-booster/",
+  "homepage": "https://Ivan-Lenyo.github.io/team-4-project-js/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /event-booster/",
+    "build": "parcel build src/*.html --public-url /team-4-project-js/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oleksii-Petryk/event-booster.git"
+    "url": "git+https://github.com/Ivan-Lenyo/team-4-project-js.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
